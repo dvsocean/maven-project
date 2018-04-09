@@ -17,6 +17,7 @@ public class TestGreeter {
     greeter = new Greeter();
   }
 
+  //Test code
   @Test
   public void greetShouldIncludeTheOneBeingGreeted() {
     String someone = "World";

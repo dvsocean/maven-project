@@ -1,1 +1,1 @@
-Hello, World!
+app successfully uploaded to Tomcat instance!
